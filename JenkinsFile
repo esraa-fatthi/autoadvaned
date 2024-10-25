@@ -2,7 +2,7 @@ node {
     def mvnHome
     stage('Get Latest Changes') { // for display purposes
         // Get some code from a GitHub repository
-        git branch: 'main', url: 'https://github.com/esraa-fatthi/AutoAdv.git'
+        git branch: 'main', url: 'https://github.com/esraa-fatthi/autoadvaned.git'
         // Get the Maven tool.
         // ** NOTE: This 'M3' Maven tool must be configured
         // **       in the global configuration.
