@@ -24,7 +24,7 @@ public class VerifyAddressDetailsInCheckoutPageTest {
                 .clickOnLoginSignupBtn()
                 .checkThatUserIsNavigateToLoginSignUpPage()
                 .fillInNameSingUpField("Ahmed")
-                .fillInEmailSingUpField("TestTest123456789810@gmail.com")
+                .fillInEmailSingUpField("TestTest123456789810esraa@gmail.com")
                 .clickOnSignUpButton()
                 .checkThatRegistrationPageIsLoadedSuccessfully()
                 .fillInRegistrationForm()

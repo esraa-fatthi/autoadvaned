@@ -30,7 +30,7 @@ public class RegisterNewUserTest {
                 .clickOnLoginLink()
                 .checkThatUserIsNavigateToLoginSignUpPage()
                 .fillInNameSingUpField("Mariam")
-                .fillInEmailSingUpField("TestTest1234567@gmail.com")
+                .fillInEmailSingUpField("TestTest1234567144@gmail.com")
                 .clickOnSignUpButton()
                 .checkThatRegistrationPageIsLoadedSuccessfully()
                 .fillInRegistrationForm()
