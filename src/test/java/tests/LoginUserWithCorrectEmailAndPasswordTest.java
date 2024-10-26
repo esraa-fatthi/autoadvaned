@@ -27,7 +27,7 @@ public class LoginUserWithCorrectEmailAndPasswordTest {
                 .clickOnLoginLink()
                 .checkThatUserIsNavigateToLoginSignUpPage()
                 .fillInNameSingUpField("Mariam")
-                .fillInEmailSingUpField("TestTest123456@gmail.com")
+                .fillInEmailSingUpField("TestTest1234567@gmail.com")
                 .clickOnSignUpButton()
                 .checkThatRegistrationPageIsLoadedSuccessfully()
                 .fillInRegistrationForm()

@@ -16,7 +16,7 @@ public class AllProductsAndFirstProductTest {
     @BeforeClass
     public void setUp() {
         driver = new Driver();
-        driver.get().manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+        //driver.get().manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
     }
 
     @Test
