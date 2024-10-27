@@ -45,7 +45,7 @@ public class LoginUserWithCorrectEmailAndPasswordTest {
                 .clickOnLoginLink()
                 .checkThatUserIsNavigateToLoginSignUpPage()
                 .checkThatLoginToYourAccountIsVisible()
-                .fillInLoginEmail("TestTest1234567917@gmail.com")
+                .fillInLoginEmail("TestTest12345679178888@gmail.com")
                 .fillInLoginPassword("12345678")
                 .clickOnLoginButton()
                 .checkThatLoggedInAsUsernameIsDisplayed("Mariam")
