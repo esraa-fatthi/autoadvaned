@@ -1,6 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","1","UserCanLogOutSuccessfully","Surefire suite","Fri Oct 25 01:06:30 EEST 2024","passed","Fri Oct 25 01:06:30 EEST 2024","tests.NewTest","Surefire test","tests.NewTest","UserCanLogOutSuccessfully"
-"","8820","contactUsTest","Default Suite","Fri Oct 25 01:29:22 EEST 2024","passed","Fri Oct 25 01:29:31 EEST 2024","tests.ContactUsTest","AutoAdvanced","tests.ContactUsTest","contactUsTest"
-"","7357","userCanRegisterSuccessfully","Surefire suite","Fri Oct 25 01:06:19 EEST 2024","passed","Fri Oct 25 01:06:26 EEST 2024","tests.NewTest","Surefire test","tests.NewTest","userCanRegisterSuccessfully"
-"","1","userCanDeleteAccountSuccessfully","Surefire suite","Fri Oct 25 01:07:00 EEST 2024","broken","Fri Oct 25 01:07:00 EEST 2024","tests.NewTest","Surefire test","tests.NewTest","userCanDeleteAccountSuccessfully"
-"","4058","userCanLoginSuccessfully","Surefire suite","Fri Oct 25 01:06:26 EEST 2024","passed","Fri Oct 25 01:06:30 EEST 2024","tests.NewTest","Surefire test","tests.NewTest","userCanLoginSuccessfully"
