@@ -23,7 +23,7 @@ public class RegisterWhileCheckoutTest {
                 .checkThatHomePageIsLoadedSuccessfully().clickOnFirstAddToCartButton().
                 clickOnViewCartButton().checkThatViewCartPageIsLoadedSuccessfully().
                 clickOnProceedToCheckOutForNonRegisteredUser().clickOnRegisterLoginBtn().fillInNameSingUpField("esraa")
-                .fillInEmailSingUpField("esraf123@gmail.com").clickOnSignUpButton().fillInRegistrationForm()
+                .fillInEmailSingUpField("esraf123987@gmail.com").clickOnSignUpButton().fillInRegistrationForm()
                 .clickOnCreateAccount().checkThatSuccessMessageShouldBeDisplayed().
                 clickOnContinueBtn().checkThatLoggedInAsUsernameIsDisplayed("esraa").clickOnCartLink()
                 .clickOnProceedToCheckOutButtonForRegisteredUser().checkAddressDetailsIsDisplayed().checkReviewOrderIsDisplayed()
