@@ -36,7 +36,7 @@ public class DownloadInvoiceAfterPurchaseOrderTest {
     public void userCanRegisterSuccessfully() {
         new LoginSignupPage(driver)
                 .fillInNameSingUpField("Mariam12")
-                .fillInEmailSingUpField("Test.Test142222455@gmail.com")
+                .fillInEmailSingUpField("Test.Test1422224559@gmail.com")
                 .clickOnSignUpButton()
                 .checkThatRegistrationPageIsLoadedSuccessfully()
                 .fillInRegistrationForm()
